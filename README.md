@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there👋
+I'm Yeong Seo (Jade), a student developer at Ewha Womans University.
 
 <br>
 
