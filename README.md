@@ -1,4 +1,4 @@
-## Hi there👋
+## Hi I'm Yeong Seo👋
 I'm Yeong Seo (Jade), a student developer at Ewha Womans University.  
 I’m interested in backend systems and cloud infrastructure.
 
