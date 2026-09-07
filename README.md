@@ -10,5 +10,5 @@ I'm Yeong Seo (Jade), a student developer at Ewha Womans University.
 <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-000000.svg?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000.svg?style=flat&logo=figma&logoColor=white"/>
 </div>
